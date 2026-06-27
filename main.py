@@ -1,3 +1,4 @@
+#Instructions function 
 def show_instructions():
     print('''
 For each item hired, enter:
