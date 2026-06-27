@@ -3,7 +3,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 
 #List of items available to hire
-party_items = ["Bouncy Castle", "Tables", "Chairs", "Plates & Bowls", "Wearables", "Lights", "Sound System", "Photo Booth", "Dance Floor"]
+party_items = ["Bouncy Castle", "Tables", "Chairs", "Plates and Bowls", "Wearables", "Lights", "Sound System", "Photo Booth", "Dance Floor"]
 
 #Instructions pop window
 def show_instructions():
