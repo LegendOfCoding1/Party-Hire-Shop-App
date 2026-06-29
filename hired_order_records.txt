@@ -5,3 +5,8 @@ Receipt              | Name            | Item            | Quantity |
 ---------------------------------------------------------------------------------
 456829699511         | Adf Ad          | Tables          | 5        |
 752581077636         | Dkjsdhflks Dfljsdhflkjsdkjfhlkjsadlfksdlkjflksdfhlksdlkjsdhs | Tables          | 6        |
+866700314287         | Lal A           | Tables          | 10        |
+991718788329         | Lal Arnav       | Tables          | 20        |
+552494307084         | Lal Adfs        | Tables          | 6        |
+681343313099         | Lal Adfs        | Tables          | 6        |
+656741135027         | Foot Monkey     | Tables          | 6        |
